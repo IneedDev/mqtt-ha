@@ -1,0 +1,4 @@
+app:
+  name: HA_MQTT_CLIENT
+mqtt:
+  host: ${MQTT_HOST:}
